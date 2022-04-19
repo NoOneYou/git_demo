@@ -6,6 +6,8 @@ public class HelloGit {
         System.out.println("writing in master");
         //编写于hotfix分支
         System.out.println("writing in hotfix");
-        //
+        //push test
+        System.out.println("push test");
+
     }
 }
