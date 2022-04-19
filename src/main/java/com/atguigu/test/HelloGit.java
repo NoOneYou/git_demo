@@ -8,6 +8,7 @@ public class HelloGit {
         System.out.println("writing in hotfix");
         //push test
         System.out.println("push test");
-
+        //push test 2
+        System.out.println("push test2");
     }
 }
